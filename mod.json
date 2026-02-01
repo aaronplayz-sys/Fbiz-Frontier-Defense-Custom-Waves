@@ -1,0 +1,13 @@
+{
+  "Name": "FBiz.FD.CustomWaves",
+  "Description": "FBiz Frontier Defense wave sets",
+  "Version": "0.1.0",
+  "LoadPriority": 10,
+  "ConVars": [],
+  "Scripts": [
+    {
+      "Path": "scripts/vscripts/fd/fd_init.nut",
+      "RunOn": "SERVER"
+    }
+  ]
+}
